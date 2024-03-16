@@ -30,7 +30,7 @@ Kahuak is a web UI component library developed in vanilla JavaScript. This libra
 ## Screenshots
 
 <div align="center">
-<img src="docs/screenshot.jpg" alt="Web Components samples" width="590" height="499">
+<img src="docs/images/screenshot.jpg" alt="Web Components samples" width="590" height="499">
 </div>
 
 ## Basic Usage
