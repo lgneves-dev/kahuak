@@ -7,12 +7,6 @@
   <a href="https://github.com/lgneves-dev/web-components">
     <img src="docs/images/kahuak-logo_500x320.png" alt="Logo" width="500" height="320">
   </a>
-
-  <h3 align="center">Kahuak UI Components</h3>
-
-  <p align="center">
-    UI Components library in vanilla Javascript!
-  </p>
 </div>
 
 ## Description
