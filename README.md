@@ -1,7 +1,7 @@
 <div align="center">
-  <img alt="version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flgneves-dev%2Fweb-components%2Fmain%2Fpackage.json&query=%24.version&label=version">
-  <img alt="license" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flgneves-dev%2Fweb-components%2Fmain%2Fpackage.json&query=%24.license&label=license&labelColor=%235d5d5d&color=green">
-  <img alt="author" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flgneves-dev%2Fweb-components%2Fmain%2Fpackage.json&query=%24.author&label=author&labelColor=%235d5d5d&color=%23caa631">
+  <img alt="version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flgneves-dev%2Fkahuak%2Fmain%2Fpackage.json&query=%24.version&label=version">
+  <img alt="license" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flgneves-dev%2Fkahuak%2Fmain%2Fpackage.json&query=%24.license&label=license&labelColor=%235d5d5d&color=green">
+  <img alt="author" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Flgneves-dev%2Fkahuak%2Fmain%2Fpackage.json&query=%24.author&label=author&labelColor=%235d5d5d&color=%23caa631">
   <br/>
   <br/>
   <a href="https://github.com/lgneves-dev/web-components">
