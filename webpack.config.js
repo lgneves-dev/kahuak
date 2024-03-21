@@ -10,10 +10,6 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      meta: {
-        viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
-      },
-      title: "Kahuak UI Components",
       filename: "index.html",
       template: "src/index.html",
     }),
