@@ -8,7 +8,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/images/kahuak-horizontal-logo-800x177-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="docs/images/kahuak-horizontal-logo-800x177-light.png">
-    <img alt="Kahuak logo" src="docs/images/kahuak-horizontal-logo-800x177-light.png" width="500" height="177">
+    <img alt="Kahuak logo" src="docs/images/kahuak-horizontal-logo-800x177-light.png" width="800" height="177">
   </picture>
   </a>
 </div>
